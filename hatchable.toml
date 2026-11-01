@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "Agricultural Dashboard"
+description = "A clean real-time agricultural monitoring dashboard inspired by the provided visual reference, focused on farm sensors, trends, activity, insights, and farm conditions."
